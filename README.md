@@ -51,10 +51,6 @@
   Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request for any enhancements or bug fixes.
 </p>
 
-<h2 style="color: #e74c3c;">📜 License</h2>
-<p style="font-family: 'Open Sans', sans-serif; color: #34495e;">
-  This project is licensed under the GPL-3.0 License. See the <code>LICENSE</code> file for more details.
-</p>
 
 <hr style="border: 1px solid #e74c3c; width: 80%; margin: 20px auto;">
 
