@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-family: Arial, sans-serif; color: #e74c3c;">🕹️ Gesture-Control Video Game 🕹️</h1>
+<h1 style="text-align: center; font-family: Arial, sans-serif; color: #e74c3c;">🕹️ HandTrack Racer : Gesture-Control Video Game 🕹️</h1>
 
 <p style="text-align: center; font-family: 'Open Sans', sans-serif; color: #2c3e50; font-size: 18px;">
   A Python-based video game controlled entirely by hand gestures using a webcam.
